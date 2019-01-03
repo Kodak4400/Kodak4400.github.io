@@ -24311,9 +24311,6 @@
 	      return _react2.default.createElement(
 	        "div",
 	        { style: styles.container },
-	        _react2.default.createElement(_Avatar2.default, {
-	          url: urlBase + "/" + this.props.user.id,
-	          avatar: this.props.user.profile_image_url }),
 	        _react2.default.createElement(
 	          "div",
 	          { style: styles.item },
