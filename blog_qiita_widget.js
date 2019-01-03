@@ -24082,7 +24082,7 @@
 	      return {
 	        container: {
 	          fontFamily: "\"Helvetica Neue\", Helvetica, \"ヒラギノ角ゴ ProN W3\", \"Hiragino Kaku Gothic ProN\", \"メイリオ\", Meiryo, sans-serif",
-	          fontSize: 9,
+	          fontSize: 12,
 	          marginTop: 5
 	        }
 	      };
@@ -24283,18 +24283,18 @@
 	          flex: 1
 	        },
 	        itemStatus: {
-	          fontSize: 12,
+	          fontSize: 9,
 	          lineHeight: "12px",
 	          color: "#999"
 	        },
 	        itemLink: {
 	          fontWeight: "bold",
-	          fontSize: 16,
+	          fontSize: 9,
 	          lineHeight: "20px"
 	        },
 	        likes: {
 	          float: "right",
-	          fontSize: 12,
+	          fontSize: 9,
 	          color: "#999",
 	          lineHeight: "12px"
 	        }
