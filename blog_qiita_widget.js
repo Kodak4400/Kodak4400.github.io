@@ -24289,8 +24289,8 @@
 	        },
 	        itemLink: {
 	          fontWeight: "bold",
-	          fontSize: 9,
-	          lineHeight: "20px"
+	          fontSize: 10,
+	          lineHeight: "12px"
 	        },
 	        likes: {
 	          float: "right",
