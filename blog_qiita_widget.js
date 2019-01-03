@@ -24271,7 +24271,7 @@
 	      return {
 	        container: {
 	          fontFamily: "\"Helvetica Neue\", Helvetica, \"ヒラギノ角ゴ ProN W3\", \"Hiragino Kaku Gothic ProN\", \"メイリオ\", Meiryo, sans-serif",
-	          fontSize: 16,
+	          fontSize: 9,
 	          borderBottom: "1px solid rgba(43,91,6,0.15)",
 	          display: "flex",
 	          flexDirection: "row",
