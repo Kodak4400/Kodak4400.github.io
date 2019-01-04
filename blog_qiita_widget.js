@@ -24289,12 +24289,12 @@
 	        },
 	        itemLink: {
 	          fontWeight: "bold",
-	          fontSize: 10,
+	          fontSize: 11,
 	          lineHeight: "12px"
 	        },
 	        likes: {
 	          float: "right",
-	          fontSize: 9,
+	          fontSize: 11,
 	          color: "#999",
 	          lineHeight: "12px"
 	        }
@@ -24513,7 +24513,7 @@
 	          borderTopRightRadius: 2,
 	          display: "inline-block",
 	          height: 14,
-	          fontSize: 11.9,
+	          fontSize: 9,
 	          lineHeight: "14px"
 	        },
 	        before: {
